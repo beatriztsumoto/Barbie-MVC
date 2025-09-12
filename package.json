@@ -1,0 +1,23 @@
+{
+  "name": "projetobarbie",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cls && nodemon server.js"
+  },
+  "keywords": [
+    "Barbie",
+    "MVC",
+    "API"
+  ],
+  "author": "Betariz",
+  "license": "MIT",
+  "description": "Atividade CRUD da Barbie com MVC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
